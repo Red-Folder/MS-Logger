@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS-Logger", "MS-Logger\MS-Logger.csproj", "{E90D1DD3-77EA-42AC-9D0B-1FFB5767B805}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS-Base-WebAPI", "remote\MS-Base-WebAPI\MS-Base-WebAPI\MS-Base-WebAPI.csproj", "{6EA633FD-51ED-423B-B80F-8DA4BC9D5FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS-Common-Library", "remote\MS-Common-Library\MS-Common-Library\MS-Common-Library.csproj", "{118DB5DF-F8FB-4E74-AFDA-6F2A31DEE8EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E90D1DD3-77EA-42AC-9D0B-1FFB5767B805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E90D1DD3-77EA-42AC-9D0B-1FFB5767B805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E90D1DD3-77EA-42AC-9D0B-1FFB5767B805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA633FD-51ED-423B-B80F-8DA4BC9D5FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA633FD-51ED-423B-B80F-8DA4BC9D5FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA633FD-51ED-423B-B80F-8DA4BC9D5FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA633FD-51ED-423B-B80F-8DA4BC9D5FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118DB5DF-F8FB-4E74-AFDA-6F2A31DEE8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118DB5DF-F8FB-4E74-AFDA-6F2A31DEE8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118DB5DF-F8FB-4E74-AFDA-6F2A31DEE8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118DB5DF-F8FB-4E74-AFDA-6F2A31DEE8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
