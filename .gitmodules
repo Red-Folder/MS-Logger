@@ -1,0 +1,6 @@
+[submodule "remote/MS-Common-Library"]
+	path = remote/MS-Common-Library
+	url = https://github.com/Red-Folder/MS-Common-Library.git
+[submodule "remote/MS-Base-WebAPI"]
+	path = remote/MS-Base-WebAPI
+	url = https://github.com/Red-Folder/MS-Base-WebAPI.git
